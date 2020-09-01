@@ -5,4 +5,5 @@ outer_results = []
 row_index = 0
 while row_index < src.count do
   element_index = 0 
+inner_results = []
 end
