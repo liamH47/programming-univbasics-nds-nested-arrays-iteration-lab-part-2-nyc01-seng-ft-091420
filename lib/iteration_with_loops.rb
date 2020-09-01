@@ -14,7 +14,7 @@ end
   element_index += 1
 end
 outer_results << lowest_value
-row_index +=
+row_index += 1
 end
 outer_results
 end
