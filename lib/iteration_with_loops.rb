@@ -7,5 +7,5 @@ while row_index < src.count do
   element_index = 0 
 inner_results = []
 lowest_value = 100
-while element_index < src[row_index] do
+while element_index < src[row_index].count do
 end
