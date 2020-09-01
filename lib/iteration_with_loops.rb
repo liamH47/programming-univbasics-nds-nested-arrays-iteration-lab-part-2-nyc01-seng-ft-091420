@@ -13,4 +13,5 @@ while element_index < src[row_index].count do
 end
   element_index += 1
 end
+outer_results << lowest_value
 end
